@@ -1,0 +1,6 @@
+{
+    "name": "Eaglercraft Server",
+    "image": "mcr.microsoft.com/devcontainers/java:11",
+    "postCreateCommand": "chmod +x start.sh",
+    "forwardPorts": [25565]
+}
