@@ -1,4 +1,4 @@
-# Eaglercraft Server, 1.8-1.21 compatible - Codespaces Edition
+# Eaglercraft Server, 1.8 and 1.12.2 compatible - Codespaces Edition
 
 A complete setup for running an Eaglercraft server in GitHub Codespaces, compatible with Minecraft versions 1.8-1.21.
 
